@@ -1,0 +1,21 @@
+# Dargo build artifacts
+.dargo/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generic build artifacts
+bin/
+obj/
+out/
+target/
+
+# Logs
+*.log
